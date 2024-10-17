@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pekohewenudi.pages.dev/sitemap.xml
